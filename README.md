@@ -1,6 +1,5 @@
 [![MasterHead](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oj3r-9AwNxSBY9x5icgv0ZjbJ62u9Kqd9zRHpQuSV3FwZqWPFdOt1nUYCUuxiRzVXUerErzaheLsiH1MNJCaTh1ELw=w2519-h1299)](https://portfolio-lucasbutto.vercel.app/)
-<h1 align="center">Hi 👋, I'm Butto Lucas</h1>
-<h3 align="center">A frontend developer from Argentina</h3>
+<h1 align="center">I'm Butto Lucas, a frontend developer from Argentina</h1>
 
 - 🔭 I’m currently working on [An ERP System](https://github.com/MaxiPepa/bienenstock-corp-web)
 
