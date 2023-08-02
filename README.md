@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-lucasbutto.vercel.app](/Portfolio-Spotify)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12Al72EWnFuj21_ZZk1SgePvU34VPBQxL/view?usp=sharing](https://drive.google.com/file/d/12Al72EWnFuj21_ZZk1SgePvU34VPBQxL/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/12Al72EWnFuj21_ZZk1SgePvU34VPBQxL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
