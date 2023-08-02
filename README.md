@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.portfolio-lucasbutto.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-lucasbutto.vercel.app/)
 
 - 📄 Know about my experiences in my [Curriculum](https://drive.google.com/file/d/12Al72EWnFuj21_ZZk1SgePvU34VPBQxL/view?usp=sharing)
 
